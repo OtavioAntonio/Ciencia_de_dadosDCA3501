@@ -4,7 +4,7 @@ import altair as alt
 import plotly.express as px
 
 st.set_page_config(layout="wide")
-st.title('📊 Dashboard - Métricas por Ano e Dimensão')
+st.title('Impact of IA - Dashboard')
 
 # ==================== Carregar dados ====================
 url = "https://raw.githubusercontent.com/OtavioAntonio/Ciencia_de_dadosDCA3501/main/Global_AI_Content_Impact_Dataset.csv"
